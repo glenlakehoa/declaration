@@ -1,10 +1,10 @@
-# declaration
+# Declaration
 Full text of the Declaration and its Amendments
 
 ## Disclaimer 
 this document is a transcription of the original deed, registered at the Spartanburg Register of Deeds in deed book 82R, page 862, and serve only to provide a searchable form on the declaration. This document cannot be used to claim legal standing. This document has been compiled from the original Declaration and the subsequent First, Second, Third and Fourth Amendment and some of the Supplementary Declarations. The editors of this version believe this is the most recent version of the declaration as of July 6, 2024.
 
-## references to amendments and supplements
+## References to amendments and supplements
 <ol>
   <li>Declaration of Protective Covenants for Glenlake Subdivision recorded on March 31, 2005 in Deed Book 82-R at Page 862</li>
   <li>Phase 3A recorded on March 31, 2005 in Deed Book 82-R at Page 926</li>
