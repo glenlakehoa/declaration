@@ -18,7 +18,7 @@ WHEREAS Four Bees is the owner of the property described on Exhibit "A" attached
 
 WHEREAS, Poinsett Homes is the owner of the property described on Exhibit "A-1" attached hereto and incorporated herein by reference; and
 
-WHEREAS, Four Bees and Poinsett desire to subject its property described on Exhibits "A" and "A- 1" and possibly other property, to the covenants, conditions, easements and provisions of this Declaration in order to create a residential community; and
+WHEREAS, Four Bees and Poinsett desire to subject its property described on Exhibits "A" and "A-1" and possibly other property, to the covenants, conditions, easements and provisions of this Declaration in order to create a residential community; and
 
 WHEREAS, Four Bees intends to develop the real property in phases, but Declarant reserves the right to remove any portion of the undeveloped property described on Exhibit "A" from the provisions of this Declaration by filing a written instrument in the office of the Register of Deeds for Spartanburg County, SC removing such property; and
 
