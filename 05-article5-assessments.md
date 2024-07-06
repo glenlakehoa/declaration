@@ -89,8 +89,7 @@ d.  **For Exterior Maintenance, Yard and Fence.** In addition to the annual asse
 
 For so long as the Declarant has the authority to appoint the directors and officers of the Association, Declarant may (but shall not be required to):
 
-<ol type="a">
-<li></li>advance funds to the Association sufficient to satisfy the deficit. if any, between the actual operating expenses of the Association and the sum of the annual, special, and specific assessments collected by the Association in any fiscal year. Such advances shall, upon request of Declarant, be repaid from assessments or may be evidenced by promissory notes from the Association in favor of the Declarant. The failure of Declarant to obtain a promissory note shall not invalidate the debt; or</li>
+<ol type="a"><li></li>advance funds to the Association sufficient to satisfy the deficit. if any, between the actual operating expenses of the Association and the sum of the annual, special, and specific assessments collected by the Association in any fiscal year. Such advances shall, upon request of Declarant, be repaid from assessments or may be evidenced by promissory notes from the Association in favor of the Declarant. The failure of Declarant to obtain a promissory note shall not invalidate the debt; or</li>
 
 <li>cause the Association to borrow such amount, or a general borrowing from a third party at the then prevailing rates for such a loan in the local area of the Community. Declarant, in its sole discretion, may guarantee repayment of such loan, if required by the lending institution, but no Mortgage secured by the Common Area or any of the improvements maintained by the Association shall be given in connection with such loan: or</li>
 
