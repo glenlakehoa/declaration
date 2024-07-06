@@ -26,8 +26,6 @@ This Declaration may be amended unilaterally at any time and from time to time b
   <li>if such amendment is necessary to enable any title insurance company to issue title insurance coverage with respect to the Lots subject to this Declaration; </li>
   <li>if such amendment is required by an institutional or governmental lender or purchaser of mortgage loans, including, for example, the Federal National Mortgage Association, the Department of Housing and Urban Development, the Veterans Administration, or Federal Home Loan Mortgage Corporation, to enable such lender or purchaser to make or purchase Mortgage loans on the Lots subject to this Declaration; or 
 a. if such amendment is necessary to enable any governmental agency or private insurance company to insure or guarantee Mortgage loans on the Lots subject to this Declaration provided that any such amendment shall not adversely affect the title to any Owner's Lot unless any such Lot Owner shall consent in writing. Further, so long as Declarant has the right unilaterally to subject additional property to this Declaration, Declarant may unilaterally amend this Declaration for any other purpose provided that any such amendment shall not materially adversely affect the substantive rights of any Lot Owners hereunder, nor shall it adversely affect title to any Lot without the consent of the affected Lot Owner.</li>
-  <li></li>
-  <li></li>
 </ol>
 
 In addition to the above, this Declaration may be amended:
