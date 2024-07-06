@@ -2,7 +2,7 @@
 
 ## 4.1 Nonprofit Corporation.
 
-*(The First Amendment to the Covenants changed an error in the naming of the community. The Second Amendment to the Covenants replaced the whole Articl 4.1 - Ed.)*
+*(The First Amendment to the Covenants changed an error in the naming of the community. The Second Amendment to the Covenants replaced the whole Article 4.1 - Ed.)*
 
 Glenlake Upstate Homeowners Association, Inc. is a nonprofit corporation organized under the laws of the State of South Carolina. The Association shall initially be managed by a Board of three Directors who need not be members of the Association. Until the first annual meeting is held, the initial Board of Directors shall be John W. Beeson, Sr. John W. Beeson, Jr., and Ronald D. Taylor. After termination of the Declarant's rights to appoint directors and officers, the Association shall increase the size of the Board to five (5) Members and may, by majority vote of the Members, increase the size of the Board up to seven (7) Members. The initial mailing address of the Board shall be Post Office Box 27109, Greenville, South Carolina, 29616. Said Board shall be responsible for preparing the initial By-Laws of the Association and distributing the same to Members thereof.
 
