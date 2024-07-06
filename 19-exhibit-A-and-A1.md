@@ -9,7 +9,7 @@ ALL those certain pieces, parcels or lots of land situate, lying and being on th
 of Glenlake Subdivision, Phase No. 1 and Phase No. 3'A', prepared by Neil R. Phillips & Company, Inc., dated October 20, 2004, last revised December 28, 2004, and recorded in the Office of the Spartanburg County Register of Deeds in PlatBook 157 at Page 250. Reference to
 said plat is here by craved for a complete metes and bounds description of said Lots. 
 
-# EXHIBIT A-1
+# EXHIBIT "A-1"
 
 ## PROPERTY SUBJECT TO THIS DECLARATION
 
