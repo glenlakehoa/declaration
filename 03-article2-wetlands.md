@@ -1,0 +1,4 @@
+# Article II. Pre-existing Covenants in Community
+
+## 2.1 Wetlands.
+Pursuant to a Declaration of Restrictive Covenants to be recorded in the office of the Register of Deeds for Spartanburg County, South Carolina (the "Wetlands Covenant"), specific property within the Community (the selection, boundaries and configuration of which shall be in the sole discretion of the Declarant) may be made subject to restrictions on certain activities. Any Wetlands Covenant is intended to preserve its subject property in its natural condition forever. The Wetlands Covenant prohibits certain activities on Its subject property and allows specific parties, including the U. S Army Corps of Engineers Charleston District; the U. S Department of Justice; and/or the South Carolina Department of Health and Environmental Control, the right to enforce the terms of the Wetlands Covenant
