@@ -44,21 +44,16 @@ There is hereby reserved to the Declarant and the Association an easement for in
 ## 14.8 Construction and Sale Period Easement.
 Notwithstanding any provisions contained in the Declaration, the By-Laws, Articles of Incorporation, use restrictions, rules and regulations, design guidelines, and any amendments thereto, until Declarant’s right unilaterally to subject property to this Declaration terminates and thereafter so long as Declarant owns any property in the Community for development or sale. Declarant reserves an easement across the Community to enable Declarant and any builder or developer approved by Declarant to maintain and carry on such development and construction activities as Declarant may reasonably deem necessary upon any portion of the Community. This reserved easement shall include an easement for such facilities and activities which, in the sole opinion of Declarant, may be required, convenient, or incidental to the development, construction, and sales activities related to property within or near the Community. This easement shall include, without limitation: 
 
-a. the right of access, ingress, and egress for vehicular and pedestrian traffic and construction activities over, under, on, or in any portion of the Community as well as any Lot in the Community,
-
-a. the right to tie into any portion of the Community with driveways, parking areas, and walkways;
-
-a. the right to tie into or otherwise connect and use (without a tap-on or any other fee for so doing), replace, relocate, maintain, and repair any device which, provides utility or similar services;
-
-a. the right (but not the obligation) to construct recreational facilities on Common Area;
-
-a. the right to carry on sales and promotional activities in the Community;
-
-a. the right to place direction and marketing signs on any portion of the Community, including any Lot or Common Area;
-
-a. the right to construct and operate business offices, signs, construction trailers, model residences, and sales offices incidental to the construction, development, and sates activities; and
-
-a. Declarant and any such builder or developer may use residences, offices, or other buildings owned or leased by Declarant or such builder or developer as model residences and sales offices, and may also use recreational facilities available for use by the Community as a sales office or for marketing purposes without charge. Rights exercised pursuant to such reserved easement shall be exercised with a minimum of interference to the quiet enjoyment of affected property, and reasonable steps shall be taken to protect such property from damage. Any damage shall be repaired by the Person causing the damage at its sole expense. This Section shall not be amended without the Declarant's express written consent until the Declarant's rights hereunder have terminated as provided in this Declaration.
+<ol type="a">
+  <li>the right of access, ingress, and egress for vehicular and pedestrian traffic and construction activities over, under, on, or in any portion of the Community as well as any Lot in the Community,</li>
+  <li>the right to tie into any portion of the Community with driveways, parking areas, and walkways;</li>
+  <li>the right to tie into or otherwise connect and use (without a tap-on or any other fee for so doing), replace, relocate, maintain, and repair any device which, provides utility or similar services;</li>
+  <li>the right (but not the obligation) to construct recreational facilities on Common Area;</li>
+  <li>the right to carry on sales and promotional activities in the Community;</li>
+  <li>the right to place direction and marketing signs on any portion of the Community, including any Lot or Common Area;</li>
+  <li>the right to construct and operate business offices, signs, construction trailers, model residences, and sales offices incidental to the construction, development, and sates activities; and</li>
+  <li>Declarant and any such builder or developer may use residences, offices, or other buildings owned or leased by Declarant or such builder or developer as model residences and sales offices, and may also use recreational facilities available for use by the Community as a sales office or for marketing purposes without charge. Rights exercised pursuant to such reserved easement shall be exercised with a minimum of interference to the quiet enjoyment of affected property, and reasonable steps shall be taken to protect such property from damage. Any damage shall be repaired by the Person causing the damage at its sole expense. This Section shall not be amended without the Declarant's express written consent until the Declarant's rights hereunder have terminated as provided in this Declaration.</li>
+</ol>
 
 ## 14.9 Irrigation Easements.
 There is hereby reserved to the Declarant and the Association a blanket easement to pump water from streams and other bodies of water located within the Community for irrigation purposes.
