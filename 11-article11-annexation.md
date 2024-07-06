@@ -3,7 +3,7 @@
 ## 11.1 Unilateral Annexation by Declarant.
 
 <ol type="a">
-  <li>The Declarant shall have the unilateral right, privilege, and option, from time to time, until December 31, 2020^[The Fourth Amendment to the Covenants changed the date from March 28, 2012 to December 31, 2020 - Ed.] to subject to the provisions of this Declaration the following property ("Annexation"):
+  <li>The Declarant shall have the unilateral right, privilege, and option, from time to time, until December 31, 2020 *(The Fourth Amendment to the Covenants changed the date from March 28, 2012 to December 31, 2020 - Ed.)* to subject to the provisions of this Declaration the following property ("Annexation"):
     <ol>
     <li>Any property which is adjacent to the property described on Exhibit "A" or "A-1".</li>
     <li>Any tract of land, of which any portion is located within a five (5) mile radius of the
