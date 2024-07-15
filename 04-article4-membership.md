@@ -18,11 +18,12 @@ a. Class A: Class A members shall be all Owners with the exception of the Declar
 
 b. Class B: The Class B member(s) shall be the Declarant and any successor of Declarant who takes title to all or a portion of the Property for the purpose of development and sale and who is designated as a successor declarant in a recorded instrument in accordance with this Declaration. Declarant shalt be entitled to three (3) votes for each Lot owned and three (3) votes for each one-half (0.50) of an acre of undeveloped land owned and subjected to this Declaration. The Class B membership shall cease and be converted to Class A membership on the happening of either of the following events, whichever occurs earlier:
 
-1. December 31, 2020;[^1]
+1. December 31, 2020;[^2]
 1. when the total votes outstanding in the Class A membership exceed the total votes outstanding in the Class B membership; or
-1. at such time as Declarant may desire to voluntarily relinquish its Class B membership. in the event Declarant should desire to voluntarily relinquish its Class B membership. Declarant shall call a meeting of the Owners to inform the Members of the termination of the Class B membership and to transfer control of the Association to the Owners, which transfer shall be evidenced by a written notice recorded in the Office of the Spartanburg County Register of Deeds.
+1. at such time as Declarant may desire to voluntarily relinquish its Class B membership. in the event Declarant should desire to voluntarily relinquish its Class B membership. Declarant shall call a meeting of the Owners to inform the Members of the termination of the Class B membership and to transfer control of the Association to the Owners, which transfer shall be evidenced by a written notice recorded in the Office of the Spartanburg County Register of Deeds.[^3]
 
-[^1] *(The Fourth Amendment to the Covenants changed the date from March 28, 2012 to December 31, 2020 - Ed.)*
+[^2]: *(The Fourth Amendment to the Covenants changed the date from March 28, 2012 to December 31, 2020 - Ed.)*
+[^3]: This happed on Dec 19, 2019
 
 
 Notwithstanding the provisions above, the Class B membership shall not terminate If, within one hundred twenty (120) days after the condition set forth in Section 4.2(b)(2) is fulfilled, all or a portion of any additional property Is incorporated Into the Community and as a result, the number of votes of the Class B member(s). determined on the basis of three (3) votes per Lot owned, is greater than the number of votes held by Class A members. From and after the termination of the Class B membership. Declarant and any designated successor Declarant shall be entitled to one (1) vote for each Lot owned. At such time, or at any earlier time as Declarant may desire to voluntarily relinquish Its Class B membership, Declarant shall call a meeting of the Owners to' inform the members of the termination of the Class B membership and to transfer control of the Association to the Owners, to be evidenced by a written notice recorded in the office of the Register of Deeds for Spartanburg County, South Carolina.
