@@ -28,9 +28,9 @@ The following capitalized words, when used in the Declaration (unless the contex
 association.
 
 "Maintained Single-Family Homes":  shall mean any and all Lots within the Community or annexed into the Community developed with detached
-single-family homes upon which the Association provides yard and exterior grounds maintenance. Such Lots containing maintained Single-Family Homes shall be subject to all special provisions of the Declaration pertaining to Maintained Single-Family Homes and special Assessments pertaining to Maintained Single-Family Homes.
+single-family homes upon which the Association provides yard and exterior grounds maintenance. Such Lots containing maintained Single-Family Homes shall be subject to all special provisions of the Declaration pertaining to Maintained Single-Family Homes and special Assessments pertaining to Maintained Single-Family Homes.[^1]
 
-*(the definition of the term "Maintained Single-Family Homes" was changed in the Third Amendment to the Covenants - Ed.)*
+[^1]: the definition of the term "Maintained Single-Family Homes" was changed in the Third Amendment to the Covenants - Ed.
 
 "Member": shall mean and refer to every person who is a member of the Association.
 
@@ -38,9 +38,9 @@ single-family homes upon which the Association provides yard and exterior ground
 
 "Mortgagee": shall mean the holder of a Mortgage.
 
-"Neighborhood": shall mean a group of Lots designated as a separate Neighborhood for purposes of sharing Exclusive Common Property or receiving other benefits or services from the Association which are not provided to all Lots. If the Association provides benefits or services to less than all Lots within a particular Neighborhood, then prorated or separate assessments shall be levied against the benefited Lots to cover the expenses of such benefits or services
+"Neighborhood": shall mean a group of Lots designated as a separate Neighborhood for purposes of sharing Exclusive Common Property or receiving other benefits or services from the Association which are not provided to all Lots. If the Association provides benefits or services to less than all Lots within a particular Neighborhood, then prorated or separate assessments shall be levied against the benefited Lots to cover the expenses of such benefits or services[^2]
 
-*(the definition of the term "Neighborhood" was changed in the Second Amendment to the Covenants - Ed.)*
+[^2]: the definition of the term "Neighborhood" was changed in the Second Amendment to the Covenants - Ed.
 
 "Occupant": shall mean any Person occupying all or any portion of a Lot or other property located within the Community for any period of time, regardless of whether such Person is a tenant of the Owner of such property.
 
