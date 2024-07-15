@@ -22,7 +22,9 @@ b. Class B: The Class B member(s) shall be the Declarant and any successor of De
 1. when the total votes outstanding in the Class A membership exceed the total votes outstanding in the Class B membership; or
 1. at such time as Declarant may desire to voluntarily relinquish its Class B membership. in the event Declarant should desire to voluntarily relinquish its Class B membership. Declarant shall call a meeting of the Owners to inform the Members of the termination of the Class B membership and to transfer control of the Association to the Owners, which transfer shall be evidenced by a written notice recorded in the Office of the Spartanburg County Register of Deeds.
 
-Notes:[^2][^3]
+Notes:[^2]
+[^3]
+
 [^2] *(The Fourth Amendment to the Covenants changed the date from March 28, 2012 to December 31, 2020 - Ed.)* or;
 [^3] *(This happened on November 26, 2019 - Ed.)*
 
