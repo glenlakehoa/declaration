@@ -150,7 +150,7 @@ Owners shall not alter, remove, or add improvements to any entry features constr
 
 <li>Notwithstanding anything contained in this Declaration to the contrary, no vegetable gardens, hammocks, statuary, swing sets or similar play equipment, basketball goals or similar athletic equipment, boats or boating equipment, pools, fences, clothes drying equipment, dog houses, dog runs or other pet enclosures, signs, retaining walls or any other structure or thing which, in the sole discretion of the Board or its designee, tends to detract from the appearance of the Community, and especially the streams and wetlands, shall be permitted on any Lot which abuts or is appurtenant to any stream or wetland within the Community or any stream made available for the use of all Owners and Occupants within the Community, without the prior written consent of the Architecture Review Committee or its designee.</li></ol>
 
-## 8.38 Party Walls.
+## 8.38 Party Walls.[^1]
 <ol type="a"><li>Each wall which is built as a part of the original construction of the Residence upon the property and placed on the dividing line between the Lots shall constitute a party wall, and, to the extent not inconsistent with the provisions of this Article, the general rules of law regarding party walls and liability for property damage due to negligence or willful acts or omissions shall apply thereto.</li>
 
 <li>Subject to the terms and provisions of Article IX (Insurance and Casualty Losses), the cost of reasonable repair and maintenance of a party wall shall be shared by the Owners who make use of the wall in proportion to such use.</li>
@@ -169,4 +169,4 @@ contain a recital of the amount claimed and the basis therefor.</li>
 <li>IN THE EVENT OF ANY DISPUTE ARISING CONCERNING A PARTY WALL, UNDER ANY PROVISION OF THIS ARTICLE, SUCH DISPUTE SHALL BE SETTLED BY ARBITRATION AS PROVIDED UNDER THE LAWS OF THE STATE OF SOUTH CAROLINA AS THEY ARE NOW OR HEREAFTER AMENDED (SECTION 15—48-10 et.seq. CODE OF LAWS OF SOUTH CAROLINA, 1976, AS AMENDED).
 </li></ol>
 
-*(Article 8.38 was added by the Supplementary Declaration in Deed Book 82-R, Page 926 - Ed.)*
+[^1]: Article 8.38 was added by the Supplementary Declaration in Deed Book 82-R, Page 926 - Ed.
