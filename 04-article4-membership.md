@@ -6,6 +6,8 @@
 
 Glenlake Upstate Homeowners Association, Inc. is a [nonprofit corporation](https://www.scstatehouse.gov/code/t33c031.php) organized under the [laws of the State of South Carolina](https://www.scstatehouse.gov/code/t27c030.php). The Association shall initially be managed by a Board of three Directors who need not be members of the Association. Until the first annual meeting is held, the initial Board of Directors shall be John W. Beeson, Sr. John W. Beeson, Jr., and Ronald D. Taylor. After termination of the Declarant's rights to appoint directors and officers, the Association shall increase the size of the Board to five (5) Members and may, by majority vote of the Members, increase the size of the Board up to seven (7) Members. The initial mailing address of the Board shall be Post Office Box 27109, Greenville, South Carolina, 29616. Said Board shall be responsible for preparing the initial By-Laws of the Association and distributing the same to Members thereof.[^1]
 
+[^1]: some footnote
+
 ## 4.2 Membership.
 
 Every Owner shall be deemed to have a membership in the Association. If a Lot is owned by more than one Person, there shall be only one (1) membership per Lot, and the votes and rights of use and enjoyment shall be as provided in this Declaration and in the By-Laws. Membership shall be appurtenant to and may not be separated from ownership of any Lot. The rights and privileges of membership, including the right to vote and to hold office, may be exercised by a member or the member's spouse, but in no event shall more than one (1) vote be cast nor more than one (1) office held for each Lot owned.
