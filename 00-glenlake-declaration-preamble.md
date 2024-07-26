@@ -10,17 +10,17 @@ In the event other pages, including, but not limited to, cover pages, indexes, o
 
 # DECLARATION OF PROTECTIVE COVENANTS, CONDITIONS AND RESTRICTIONS FOR GLENLAKE SUBDIVISION, PHASE NO. 1 PLAT BOOK 157, PAGE 250 
 
-THIS DECLARATION is made on this the \_\_\_ day of March, 2005 by Four Bees, Inc., a South Carolina corporation, (herein referred to sometimes as "Four Bees" and sometimes as "Declarant") and Poinsett Homes, LLC, a South Carolina limited liability company, (herein referred to sometimes as "Poinsett Homes").
+THIS DECLARATION is made on this the \_\_\_ day of March, 2005 by Four Bees[^1], Inc., a South Carolina corporation, (herein referred to sometimes as "Four Bees" and sometimes as "Declarant") and Poinsett Homes, LLC[^2], a South Carolina limited liability company, (herein referred to sometimes as "Poinsett Homes").
+
+[^1]: Four Bees was renamed to Mark III Properties, Inc. as recorded in Deed Book 91-A, Page 637 in the Spartanburg County Register of Deeds. Mark III Properties, Inc was merged into Mark III Properties, LLC as recorded in Deed Book 119-L, Page 884 in the Spartanburg County Register of Deeds.
+
+[^2]: Pointsett Homes went bankrupt in 2009. All property owned by Pointsett Homes in the Glenlake Subdivision were purchased by WBN, LLC at the foreclosure sale of January 30, 2009. The sale was documented at the Spartanburg Register in Deed Book 93-E, Page 223.
 
 WITNESSETH
 
 WHEREAS Four Bees[^1] is the owner of the property described on Exhibit "A" attached hereto and incorporated herein by reference; and
 
-[^1]: Four Bees was renamed to Mark III, LLC.
-
 WHEREAS, Poinsett Homes[^2] is the owner of the property described on Exhibit "A-1" attached hereto and incorporated herein by reference; and
-
-[^2]: Pointsett Homes went bankrupt in 2009. All property owned by Pointsett Homes in the Glenlake Subdivision were purchased by WBN, LLC at the foreclosure sale of January 30, 2009. The sale was documented at the Spartanburg Register in Deed Book 93-E, Page 223.
 
 WHEREAS, Four Bees and Poinsett desire to subject its property described on Exhibits "A" and "A-1" and possibly other property, to the covenants, conditions, easements and provisions of this Declaration in order to create a residential community; and
 
