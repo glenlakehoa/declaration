@@ -56,7 +56,10 @@ The damage or destruction by fire or other casualty to all or any portion of any
 In the event of damage or destruction to the Common Areas or other areas or improvements maintained by the Association, the deductible for any casualty insurance policy carried by the Association shall be paid by the Association, but the Association may allocate the cost thereof among any Persons who are responsible, in whole or in part, for such damage or destruction.
 
 ## 9.10 Townhomes - Covenants to Keep Townhome Residences Insured Against Loss, to Rebuild and to Keep in Good Repair.[^3]
-(The provisions of this section apply to townhome Owners, townhome Lots and townhome Residences in Glenlake Subdivision.) As to Phase 3'A', the Declarant covenants with the Association, on behalf of itself and on behalf of each subsequent Owner of a townhome Lot within Glenlake Subdivision, and each Owner of any townhome Lot within Glenlake Subdivision, by acceptance of a deed therefor, whether or not it shall be so expressed in said deed, or by exercise of any act of ownership, is deemed to covenant: 
+
+(The provisions of this section apply to townhome Owners, townhome Lots and townhome Residences in Glenlake Subdivision.)
+
+As to Phase 3'A', the Declarant covenants with the Association, on behalf of itself and on behalf of each subsequent Owner of a townhome Lot within Glenlake Subdivision, and each Owner of any townhome Lot within Glenlake Subdivision, by acceptance of a deed therefor, whether or not it shall be so expressed in said deed, or by exercise of any act of ownership, is deemed to covenant: 
 
 <ol>
     <li>The Association shall obtain a group or blanket insurance policy equal to the full replacement value of the townhome project. Said policy shall contain a Replacement Cost Endorsement providing for replacement of townhome Residences from insurance loss proceeds. </li>
