@@ -28,17 +28,29 @@ This document is a transcription of the original deed, registered at the Spartan
 ## Phases by address
 
 Phase 1: Seymour Ct, Hartscove Ct, Witherspoon Ct, Delaney Ct, Palmdale Ct, Fenway Ct, Hamilton Gaines Ct, Walkers Bluff Rd, Shoreline Blvd (306)
+
 Phase 2A: Bridgeport Rd (except 294), Vandenburg Dr, Marchbank Rd (odd: 505-517; even 504-522), Cordelia Ct
+
 Phase 2B: Bridgeport Rd (294)
+
 Phase 2C: Marchbank Rd (odd: 529-623; even: 526-624), Ethridge Point, Bridgeville Way
+
 Phase 3A: Stewarts Landing (even numbers 206-240)
+
 Phase 3B: Stewarts Landing (odd: 201-267), Pierview Way
+
 Phase 3C: Stewarts Landing (283, 287, 291), Grays Harbor Ct
+
 Phase 4A: Inner Banks Rd, Shoreline Blvd (390, 394, 402, 410)
+
 Phase 4B: Dunleith Ct, Culverhouse Rd (odd: 817-839; even: 818-838)
+
 Phase 4C: Culverhouse Rd (odd: 843-879; even: 846-882)
+
 Phase 5: Shoreline Blvd (odd: 531-601; even: 532-606), Dewfield Ln
+
 Phase 5A: Shoreline Blvd (411, 415, 528)
+
 Phase 5B: Shoreline Blvd (odd: 419-487; even:416-524), Maya St, Nola Ct, Belize Ct
 
 *Disclaimer: no legal rights can be inferred from this enumeration. Please consult your deed for the correct information.*
