@@ -1,8 +1,7 @@
 # Declaration
-Full text of the Declaration and its Amendments
 
 ## Disclaimer 
-This document is a transcription of the original deed, registered at the Spartanburg Register of Deeds in deed book 82R, page 862, and serve only to provide a searchable form on the declaration. This document cannot be used to claim legal standing. This document has been compiled from the original Declaration and the subsequent First, Second, Third and Fourth Amendment and some of the Supplementary Declarations. The editors of this version believe this is the most recent version of the declaration as of July 6, 2024.
+This document is a transcription of the original deed, registered at the Spartanburg Register of Deeds in deed book 82-R, page 862, and serve only to provide a searchable form on the declaration. This document cannot be used to claim legal standing. This document has been compiled from the original Declaration and the subsequent First, Second, Third and Fourth Amendment and some of the Supplementary Declarations. The editors of this version believe this is the most recent version of the declaration as of July 26, 2024.
 
 ## References to amendments and supplements
 <ol>
