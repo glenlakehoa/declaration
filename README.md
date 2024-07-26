@@ -25,10 +25,5 @@ This document is a transcription of the original deed, registered at the Spartan
   <li>Fourth Amendment recorded November 15, 2012 at Deed Book 102-A, Page 842</li>
 </ol>
 
-## Editor's Note
-In a judgment by the 7th Judicial Circuit of South Carolina in case 2019CP4203679 (Glenlake Upstate Homeowners Association, Inc. vs Spallone, defendant, et al) on March 29, 2021, the judge concluded that all property in Phase 2C is bound to the Covenants, despite the lateness in issuing the Fourth Amendment to the CC&R.
-
-By implication, this also means that all of the other phases that were annexed post-Fourth Amendment (i.e. Phases 3C, 4B, 4C, 5A and 5B), are to be considered covered by the Covenants following the judge's arguments. The Third Amendment is also considered valid following these arguments. In accordance with this judgment, The Third and Fourth Amendment to the Protective Covenants, Conditions and Restrictions have been included in this version.
-
 ## Transcription and corrections
 The initial transcription of the original documents was done by Hinson Management using optical character recognition software. Randall Cohen and Rob Hanssen did further corrections and transcripts into text format. All documents were edited into a single final version using all Amendments and Supplements known to the editors. Please consult a legal professional for legal advice on the extent of all the documents for the HOA.
