@@ -14,9 +14,13 @@ THIS DECLARATION is made on this the \_\_\_ day of March, 2005 by Four Bees, Inc
 
 WITNESSETH
 
-WHEREAS Four Bees is the owner of the property described on Exhibit "A" attached hereto and incorporated herein by reference; and
+WHEREAS Four Bees[^1] is the owner of the property described on Exhibit "A" attached hereto and incorporated herein by reference; and
 
-WHEREAS, Poinsett Homes is the owner of the property described on Exhibit "A-1" attached hereto and incorporated herein by reference; and
+[^1]: Four Bees was renamed to Mark III, LLC.
+
+WHEREAS, Poinsett Homes[^2] is the owner of the property described on Exhibit "A-1" attached hereto and incorporated herein by reference; and
+
+[^2]: Pointsett Homes went bankrupt in 2009. All property owned by Pointsett Homes in the Glenlake Subdivision were purchased by WBN, LLC at the foreclosure sale of January 30, 2009. The sale was documented at the Spartanburg Register in Deed Book 93-E, Page 223.
 
 WHEREAS, Four Bees and Poinsett desire to subject its property described on Exhibits "A" and "A-1" and possibly other property, to the covenants, conditions, easements and provisions of this Declaration in order to create a residential community; and
 
